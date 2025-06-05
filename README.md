@@ -257,7 +257,7 @@
     <div class="main-container">
         <div class="profile-sidebar">
             <div class="profile-image-wrapper">
-                <img src="gambar/pp.jpg" alt="Ahmad Fathullah" class="profile-picture">
+                <img src="(https://github.com/Fathullah917/ahmdft/blob/main/pp.jpg?raw=true)" alt="Ahmad Fathullah" class="profile-picture">
             </div>
             <h1 class="profile-name">Ahmad Fathullah</h1>
             <p class="profile-category">Data Analyst and Digital Marketing</p>
